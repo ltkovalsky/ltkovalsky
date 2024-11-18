@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ltkovalsky
 - 👀 I’m interested in backend java development
-- 🌱 I’m currently learning java+spring
+- 🌱 I’m still learning java+spring since 2018 :)
 - 📫 How to reach me tg: @ltkovalsky
 
 <!---
